@@ -1,4 +1,4 @@
-try
+change 2
 {
     string test  = 'test';
 
